@@ -1,0 +1,6 @@
+{
+    "corrupted_folder":"corrupted_files/",
+    "cleaned_folder":"cleaned_files/",
+    "output_filename": "output.xlsx",
+    "files_only":".xls"
+}
